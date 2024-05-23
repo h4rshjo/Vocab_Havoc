@@ -1,0 +1,16 @@
+# NetBeans specific #
+/Vocab Havoc/nbproject/private/
+/Vocab Havoc/build/
+/Vocab Havoc/nbbuild/
+/Vocab Havoc/dist/
+/Vocab Havoc/nbdist/
+/Vocab Havoc/nbactions.xml
+/Vocab Havoc/nb-configuration.xml
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
